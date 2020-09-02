@@ -1,0 +1,6 @@
+// Import Bootstrap and BootstrapVue source SCSS files
+// This is required! For variants customization for your theme!
+@import './utils/variants';
+
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';
